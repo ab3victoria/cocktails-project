@@ -1,12 +1,12 @@
 # React Cocktails App
 
-This is a cocktail finder app
+A react cocktails finder app. 
 
 
 ## About The Project && Dependencies
 
-- Project uses: React, Redux, MATERIAL-UI
-- Using [OpenTdb API](https://opentdb.com/) for fetching data
+- User can search his favorite cocktail and read more information about it.
+- Using [TheCocktailDB API](https://www.thecocktaildb.com/api/json/v1/1/search.php?s=) for fetching data
 
 
 
