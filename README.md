@@ -1,15 +1,28 @@
-#### React Router Fix
+# React Cocktails App
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+This is a cocktail finder app
 
-#### CRA Fix
 
-```
+## About The Project && Dependencies
 
-"build": "CI= react-scripts build",
+- Project uses: React, Redux, MATERIAL-UI
+- Using [OpenTdb API](https://opentdb.com/) for fetching data
 
-```
 
-```sh
-npm install react-router-dom@6
-```
+
+## Screenshots
+*Home Page*
+
+![https://i.postimg.cc/Jzg8LkyW/place-Order.png](https://i.postimg.cc/FsLywRdR/cocktails.png)
+
+
+*Specific cocktail example*
+
+![pic](https://i.postimg.cc/VsC9VRVM/cocktailsdata.png)
+
+
+
+
+## Deployment
+
+Deployed to [Firebase](https://cocktails-app-react.firebaseapp.com/)
