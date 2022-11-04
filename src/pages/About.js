@@ -5,11 +5,8 @@ const About = () => {
     <section className='section about-section'>
       <h1 className='section-title'>About us</h1>
       <p>
-        lorem, ipsum dolor sit amet consecturet adispoidg elit.
-        Eous dolorius
-        animi paritcular disguisse mulla dolorum figut
-        minus mans
-        Adispiciti distinto loreanus kravit el mismk
+        This website uses cocktailDB API to fetch data.<br/>
+        You can <a href='#'>click here</a> to visit the database.
       </p>
     </section>
   )
